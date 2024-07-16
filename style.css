@@ -59,6 +59,12 @@ img{
 #circular-btn{
     justify-content:space-around;
 }
+#error-response{
+    color: hsl(7, 96%, 69%);
+    position: relative;
+    right: -50%;
+    font-size: 12px;
+}
 .button__section .feedback-btn{
     height:45px;
     width: 45px;
